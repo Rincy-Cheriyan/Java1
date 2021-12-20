@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24" started-at="2021-12-16T15:16:29Z" finished-at="2021-12-16T15:16:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24" started-at="2021-12-16T15:16:29Z" finished-at="2021-12-16T15:16:29Z">
+      <class name="com.tw.test.TestCars">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.tw.test.TestCars@67117f44]" name="test1" duration-ms="10" started-at="2021-12-16T20:46:29Z" finished-at="2021-12-16T20:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.tw.test.TestCars@67117f44]" name="test2" duration-ms="0" started-at="2021-12-16T20:46:29Z" finished-at="2021-12-16T20:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.tw.test.TestCars@67117f44]" name="test3" duration-ms="1" started-at="2021-12-16T20:46:29Z" finished-at="2021-12-16T20:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.tw.test.TestCars -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
